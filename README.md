@@ -3,10 +3,6 @@
 
 - Experience with Python, Ruby, Javascript (React, Vue)
 - I'm currently learning Rust
-- Some of my codework unfortunately is private in Gitlab!
-
-<img width="800" alt="Screenshot 2022-10-24 at 20 21 13" src="https://user-images.githubusercontent.com/2915770/197597663-c0c0cf05-6932-4c38-9558-3e31f4db0d0e.png">
-
 
 
 <!--
