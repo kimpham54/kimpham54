@@ -1,8 +1,9 @@
 ### Hi there 👋
 :cloud: [Linkedin](https://www.linkedin.com/in/kimpham54/)
 
-- Experience with Python, Ruby, Javascript (React, Vue)
-- I'm currently learning Rust
+- I work with Python, Javascript (React, Vue), Rust and Ruby
+- I also do project and product management for software, with special focus on open-source
+- My main consulting projects are in the academic technology and library sector
 
 
 <!--
