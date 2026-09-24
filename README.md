@@ -1,7 +1,7 @@
 ### Hi there 👋
 :cloud: [Linkedin](https://www.linkedin.com/in/kimpham54/)
 
-- I work with Python, Javascript (React, Vue), Rust and Ruby
+- These days I mostly code
 - I also do project and product management for software, with special focus on open-source
 - My main consulting projects are in the academic technology and library sector
 
