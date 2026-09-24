@@ -3,7 +3,7 @@
 
 - These days I mostly code
 - I also do project and product management for software, with special focus on open-source
-- My main consulting projects are in the academic technology and library sector
+- My main consulting projects areas are in the academic technologies and libraries sector
 
 
 <!--
